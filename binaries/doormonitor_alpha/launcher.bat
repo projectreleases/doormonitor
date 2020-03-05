@@ -1,1 +1,0 @@
-%CD%\jdk-13.0.2\bin\java.exe --module-path %CD%\doormonitor_siem_lib --add-modules javafx.controls,javafx.fxml -jar %CD%\doormonitor_siem.jar
